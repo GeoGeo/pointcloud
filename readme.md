@@ -1,10 +1,7 @@
-### Visualizations:
-* [Town Pointcloud](http://mapbox.github.io/pointcloud/town/)
-* [Town Elevation](http://mapbox.github.io/pointcloud/town/elevation)
-* [Town Imagery](http://mapbox.github.io/pointcloud/town/imagery)
-* [Glacier Pointcloud](http://mapbox.github.io/pointcloud/glacier)
-* [Glacier Elevation](http://mapbox.github.io/pointcloud/glacier/elevation)
-* [Glacier Imagery](http://mapbox.github.io/pointcloud/glacier/imagery)
-* [Matterhorn Pointcloud](http://mapbox.github.io/pointcloud/matterhorn)
-* [Matterhorn Elevation](http://mapbox.github.io/pointcloud/matterhorn/elevation)
-* [Matterhorn Imagery](http://mapbox.github.io/pointcloud/matterhorn/imagery)
+### GeoGeo point cloud Visualisations
+
+forked from MapBox/pointcloud
+
+point clouds generated using OrthoDem2xyzrgb qgis plugin
+
+requires a browser with WebGL support
