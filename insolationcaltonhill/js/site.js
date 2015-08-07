@@ -113,7 +113,7 @@ function start(){
     ps.onMousePressed = mousePressed;
     ps.onMouseReleased = mouseReleased;
     
-    town = ps.load('clouds/sample3.asc');
+    town = ps.load('clouds/sample4.asc');
   
 }
 
